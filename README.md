@@ -1,5 +1,8 @@
 # CustomerInsights
 
+![Cópia de TheeCofee](https://github.com/user-attachments/assets/dd595111-b812-4d7c-8c8b-116ec4b6bea4)
+
+
 **CustomerInsights** é uma ferramenta inovadora projetada para ajudá-lo a acompanhar e analisar as interações recentes dos clientes. Com uma interface amigável e informações detalhadas, você poderá entender melhor o comportamento dos seus clientes e melhorar suas estratégias de interação e engajamento.
 
 ## 🚀 O Que É o CustomerInsights?
