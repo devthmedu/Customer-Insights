@@ -1,36 +1,109 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# CustomerInsights
 
-## Getting Started
+**CustomerInsights** é uma ferramenta inovadora projetada para ajudá-lo a acompanhar e analisar as interações recentes dos clientes. Com uma interface amigável e informações detalhadas, você poderá entender melhor o comportamento dos seus clientes e melhorar suas estratégias de interação e engajamento.
 
-First, run the development server:
+## 🚀 O Que É o CustomerInsights?
+
+O **CustomerInsights** oferece uma visão abrangente das atividades dos clientes mais recentes, permitindo que você veja de forma clara e intuitiva:
+
+- As ações mais recentes dos clientes.
+- As compras e interações realizadas.
+- Avaliações e feedbacks deixados.
+
+Tudo isso para que você possa otimizar a experiência do cliente e tomar decisões mais informadas.
+
+## 🌟 Principais Funcionalidades
+
+1. **Perfil do Cliente**
+   - Visualize as informações básicas do cliente, como nome e e-mail.
+   - Exiba uma imagem de perfil fictícia para personalizar a visualização.
+
+2. **Interações Recentes**
+   - Liste as atividades recentes do cliente com ícones representativos para uma visualização rápida e clara.
+   - Acompanhe ações como compras, avaliações e participações em pesquisas.
+
+3. **Design Moderno e Responsivo**
+   - O card é estilizado para se ajustar a diferentes tamanhos de tela, garantindo uma visualização otimizada em qualquer dispositivo.
+
+## 🛠 Tecnologias Utilizadas
+
+- **React**: Biblioteca JavaScript para criar interfaces de usuário interativas e dinâmicas.
+- **Tailwind CSS**: Framework CSS para um design responsivo e estilização rápida.
+- **Radix UI**: Conjunto de componentes acessíveis e customizáveis para criar interfaces de usuário.
+- **Lucide Icons**: Biblioteca de ícones para representar visualmente as ações dos clientes.
+
+## 🚀 Como Executar o Projeto
+
+### 1. Clone o Repositório
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/SeuUsuario/CustomerInsights.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. Navegue até o Diretório do Projeto
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+cd CustomerInsights
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### 3. Instale as Dependências
 
-## Learn More
+Com **npm**:
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm install
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Ou com **Yarn**:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```bash
+yarn install
+```
 
-## Deploy on Vercel
+### 4. Inicie o Servidor de Desenvolvimento
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Com **npm**:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+```bash
+npm start
+```
+
+Ou com **Yarn**:
+
+```bash
+yarn start
+```
+
+### 5. Abra o Navegador
+
+Acesse [http://localhost:3000](http://localhost:3000) para visualizar a aplicação em execução.
+
+## 🗂 Estrutura do Projeto
+
+- **/src**
+  - **/components**: Contém os componentes React, como cartões e avatares.
+  - **/styles**: Arquivos CSS e configurações do Tailwind.
+  - **App.js**: Componente principal que renderiza a aplicação.
+  - **index.js**: Ponto de entrada do aplicativo.
+
+## 🤝 Contribuindo
+
+Adoramos contribuições! Se você encontrou um bug ou tem uma ideia para melhorar o projeto, sinta-se à vontade para:
+
+- Abrir uma **issue** com uma descrição do problema ou sugestão.
+- Submeter um **pull request** com suas melhorias ou correções.
+
+Para contribuições maiores, consulte nosso guia de contribuição.
+
+## 📜 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE), que permite liberdade para uso, modificação e distribuição.
+
+## 📧 Contato
+
+Se você tiver dúvidas, sugestões ou apenas quiser bater um papo sobre o projeto, entre em contato com:
+
+- **Email:** [developer.thomas@outlook.com](mailto:developer.thomas@outlook.com)
+
+Obrigado por explorar o **CustomerInsights**! Esperamos que ele seja uma ferramenta valiosa para entender melhor seus clientes e melhorar sua estratégia de engajamento. 🚀
+
