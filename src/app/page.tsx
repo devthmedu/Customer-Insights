@@ -20,10 +20,8 @@ import {
   Globe,
   Calendar,
   Clock,
-  TrendUp,
   TrendingUp
 } from 'lucide-react'
-
 
 export default function Home () {
   return (
